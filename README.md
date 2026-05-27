@@ -269,6 +269,6 @@ order by total_orders desc;
 ## 7. Screenshots / Demos
 ![https://github.com/l2Aquel/Healthcare-Data-Analysis/blob/main/Dashboard_preview.png](Dashboard_preview.png)
 ![https://github.com/l2Aquel/Healthcare-Data-Analysis/blob/main/Data_Model.png](Data_Model.png)
-![https://github.com/l2Aquel/Healthcare-Data-Analysis/blob/main/SqlServerManagementStudio.png](SqlServerManagementStudio.png)
+![https://github.com/l2Aquel/Healthcare-Data-Analysis/blob/main/PostgreSQL.png](PostgreSQL.png)
     
 
